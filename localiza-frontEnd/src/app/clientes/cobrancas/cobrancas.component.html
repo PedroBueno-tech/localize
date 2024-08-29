@@ -1,0 +1,33 @@
+<div id="container" >
+  <div id="divConteudo">
+    <div id="divCabecalho">
+      <h1 style="float: left;">Clientes / <strong>{{cliente.nome}}</strong> </h1>
+      <button style="float: right;" class="btn btn-cancelar" (click)="voltarPagina()">Cancelar</button>
+      <button style="float: right;" class="btn" (click)="cadastrarNovo()">Cadastrar</button>
+    </div><br/>
+      <table id="clientes">
+        <thead>
+          <tr>
+            <th align="left" style="width: 30%;">Descrição</th>
+            <th align="Left" style="width: 10%;"></th>
+            <th align="center" style="width: 10%;">Valor</th>
+            <th align="center" style="width: 10%;">Vencimentos</th>
+            <th align="right" style="width: 15%;"></th>
+          </tr>
+        </thead>
+        <tbody *ngFor="let cobranca of cobrancas;">
+          <tr>
+            <td style="width: 30%;">{{cobranca.descricao}}</td>
+            <td style="width: 10%; text-align: center;" align="Left" *ngIf="cobranca.atrasado" class="status-atrasados"><span>Atrasado</span></td>
+            <td style="width: 10%; text-align: center;" align="Left" *ngIf="!cobranca.atrasado"><span></span></td>
+            <td style="width: 10%; text-align: center;" align="right"><span>{{cobranca.valor}}</span></td>
+            <td style="width: 10%; text-align: center;" align="right"><span></span>{{cobranca.dataVencimento}}</td>
+            <td style="width: 15%; text-align: right;" align="right">
+              <button class="tableButton edit" (click)="updateCobranca(cobranca)">✏️</button>
+              <button class="tableButton delete" (click)="deletarCobranca(cobranca.id)">🗑️</button>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+  </div>
+</div>

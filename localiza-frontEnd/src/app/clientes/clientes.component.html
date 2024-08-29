@@ -1,0 +1,32 @@
+<div id="container">
+  <div id="divConteudo">
+    <div id="divCabecalho">
+      <h1 style="float: left;">Clientes</h1>
+      <button style="float: right;" class="btn" (click)="cadastrarNovo()">Cadastrar</button>
+    </div><br/>
+      <table id="clientes">
+        <thead>
+          <tr>
+            <th align="left" style="width: 30%;">Nome</th>
+            <th align="center" style="width: 10%;">Pages</th>
+            <th align="center" style="width: 10%;">Abertos</th>
+            <th align="center" style="width: 10%;">Atrasados</th>
+            <th align="right" style="width: 15%;"></th>
+          </tr>
+        </thead>
+        <tbody *ngFor="let cliente of clientes; let i = index">
+          <tr>
+            <td style="width: 30%;">{{cliente.nome}}</td>
+            <td style="width: 10%; text-align: center;" align="right"><span class="status-circulo status-pago">21</span></td>
+            <td style="width: 10%; text-align: center;" align="right"><span class="status-circulo status-abertos">4</span></td>
+            <td style="width: 10%; text-align: center;" align="right"><span class="status-circulo status-atrasados">1</span></td>
+            <td style="width: 15%; text-align: right;" align="right">
+              <button class="tableButton edit" (click)="updateCliente(cliente)">✏️</button>
+              <button class="tableButton delete" (click)="deleteCliente(cliente.id)">🗑️</button>
+              <button class="tableButton cobrancas" (click)="goToCobranca(cliente)">Cobranças</button>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+  </div>
+</div>

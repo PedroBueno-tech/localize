@@ -1,0 +1,22 @@
+<h1 mat-dialog-title>Editar cliente</h1>
+<div mat-dialog-content>
+  <form class="loginForm">
+    <label for="nome">Nome</label><br/>
+    <input type="text" id="nome" class="input texts" [(ngModel)]="nome" name="nome" required><br/>
+
+    <label for="documento">Documento</label><br/>
+    <input type="text" id="documento" class="input texts" [(ngModel)]="documento" name="documento" required><br/>
+
+    <label for="telefone">Telefone</label><br/>
+    <input type="text" id="telefone" class="input texts" [(ngModel)]="telefone" name="telefone" required><br/>
+
+    <label for="endereco">Endereço</label><br/>
+    <input type="text" id="endereco" class="input texts" [(ngModel)]="endereco" name="endereco" required><br/>
+
+
+  </form>
+</div>
+<div mat-dialog-actions>
+  <button type="button" class="btn" (click)="updateCliente()" style="margin-right: 40px;"> Cadastrar </button>
+  <button class="btn" mat-button [mat-dialog-close]="true">Fechar</button>
+</div>

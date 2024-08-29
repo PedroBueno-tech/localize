@@ -1,0 +1,25 @@
+<h1 mat-dialog-title>Cadastrar novo cobrança</h1>
+<div mat-dialog-content>
+  <form class="loginForm">
+    <label for="descricao">Descrição</label><br/>
+    <input type="text" id="descricao" class="input texts" [(ngModel)]="descricao" name="descricao" required><br/>
+
+    <label for="valor">Valor</label><br/>
+    <input type="number" id="valor" class="input texts" [(ngModel)]="valor" name="valor" required><br/>
+
+    <label for="dataVencimento">Data Vencimento</label><br/>
+    <input type="date" id="telefone" class="input texts" [(ngModel)]="dataVencimento" name="dataVencimento" required><br/>
+
+    <label for="isPago">Pago</label><br/>
+    <input type="radio" id="pagoSim" name="pago" value="sim" [(ngModel)]="pago">
+    <label for="pagoSim">Sim</label>
+    <input type="radio" id="pagoNao" name="pago" value="nao" [(ngModel)]="pago">
+    <label for="pagoNao">Não</label>
+
+
+  </form>
+</div>
+<div mat-dialog-actions>
+  <button type="button" class="btn" (click)="cadastrarCobranca()" style="margin-right: 40px;"> Cadastrar </button>
+  <button class="btn" mat-button [mat-dialog-close]="true">Fechar</button>
+</div>

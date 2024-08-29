@@ -1,0 +1,15 @@
+<div id="container">
+  <div id="divLogin">
+
+    <h1>Login</h1>
+    <form class="loginForm">
+      <label for="email">E-mail</label><br/>
+      <input type="text" id="email" class="input texts" [(ngModel)]="email" name="email" required><br/>
+
+      <label for="password">Senha</label><br/>
+      <input type="password" id="password" class="input texts" [(ngModel)]="senha" name="senha" required><br/>
+      <button type="button" id="enviar" class="btn input" (click)="sendLogin()">Enviar</button><br/>
+    </form>
+    <br/><br/><a href="/cadastro"> Clique aqui para criar uma conta </a>
+  </div>
+</div>
