@@ -1,0 +1,246 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Games\\localiza\\localiza-backend\\WebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3602010D-6F7B-4DC8-870C-736E0F05974C}|WebApp.API\\WebApp.API.csproj|d:\\games\\localiza\\localiza-backend\\webapp\\webapp.api\\entities\\cobranca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3602010D-6F7B-4DC8-870C-736E0F05974C}|WebApp.API\\WebApp.API.csproj|solutionrelative:webapp.api\\entities\\cobranca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3602010D-6F7B-4DC8-870C-736E0F05974C}|WebApp.API\\WebApp.API.csproj|d:\\games\\localiza\\localiza-backend\\webapp\\webapp.api\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3602010D-6F7B-4DC8-870C-736E0F05974C}|WebApp.API\\WebApp.API.csproj|solutionrelative:webapp.api\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3602010D-6F7B-4DC8-870C-736E0F05974C}|WebApp.API\\WebApp.API.csproj|d:\\games\\localiza\\localiza-backend\\webapp\\webapp.api\\repositories\\clienterepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3602010D-6F7B-4DC8-870C-736E0F05974C}|WebApp.API\\WebApp.API.csproj|solutionrelative:webapp.api\\repositories\\clienterepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3602010D-6F7B-4DC8-870C-736E0F05974C}|WebApp.API\\WebApp.API.csproj|d:\\games\\localiza\\localiza-backend\\webapp\\webapp.api\\repositories\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3602010D-6F7B-4DC8-870C-736E0F05974C}|WebApp.API\\WebApp.API.csproj|solutionrelative:webapp.api\\repositories\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3602010D-6F7B-4DC8-870C-736E0F05974C}|WebApp.API\\WebApp.API.csproj|d:\\games\\localiza\\localiza-backend\\webapp\\webapp.api\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3602010D-6F7B-4DC8-870C-736E0F05974C}|WebApp.API\\WebApp.API.csproj|solutionrelative:webapp.api\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3602010D-6F7B-4DC8-870C-736E0F05974C}|WebApp.API\\WebApp.API.csproj|d:\\games\\localiza\\localiza-backend\\webapp\\webapp.api\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3602010D-6F7B-4DC8-870C-736E0F05974C}|WebApp.API\\WebApp.API.csproj|solutionrelative:webapp.api\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3602010D-6F7B-4DC8-870C-736E0F05974C}|WebApp.API\\WebApp.API.csproj|d:\\games\\localiza\\localiza-backend\\webapp\\webapp.api\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3602010D-6F7B-4DC8-870C-736E0F05974C}|WebApp.API\\WebApp.API.csproj|solutionrelative:webapp.api\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3602010D-6F7B-4DC8-870C-736E0F05974C}|WebApp.API\\WebApp.API.csproj|d:\\games\\localiza\\localiza-backend\\webapp\\webapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3602010D-6F7B-4DC8-870C-736E0F05974C}|WebApp.API\\WebApp.API.csproj|solutionrelative:webapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3602010D-6F7B-4DC8-870C-736E0F05974C}|WebApp.API\\WebApp.API.csproj|d:\\games\\localiza\\localiza-backend\\webapp\\webapp.api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3602010D-6F7B-4DC8-870C-736E0F05974C}|WebApp.API\\WebApp.API.csproj|solutionrelative:webapp.api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3602010D-6F7B-4DC8-870C-736E0F05974C}|WebApp.API\\WebApp.API.csproj|d:\\games\\localiza\\localiza-backend\\webapp\\webapp.api\\repositories\\interfaces\\iclienterepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3602010D-6F7B-4DC8-870C-736E0F05974C}|WebApp.API\\WebApp.API.csproj|solutionrelative:webapp.api\\repositories\\interfaces\\iclienterepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3602010D-6F7B-4DC8-870C-736E0F05974C}|WebApp.API\\WebApp.API.csproj|d:\\games\\localiza\\localiza-backend\\webapp\\webapp.api\\repositories\\interfaces\\icobrancarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3602010D-6F7B-4DC8-870C-736E0F05974C}|WebApp.API\\WebApp.API.csproj|solutionrelative:webapp.api\\repositories\\interfaces\\icobrancarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3602010D-6F7B-4DC8-870C-736E0F05974C}|WebApp.API\\WebApp.API.csproj|d:\\games\\localiza\\localiza-backend\\webapp\\webapp.api\\repositories\\cobrancarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3602010D-6F7B-4DC8-870C-736E0F05974C}|WebApp.API\\WebApp.API.csproj|solutionrelative:webapp.api\\repositories\\cobrancarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3602010D-6F7B-4DC8-870C-736E0F05974C}|WebApp.API\\WebApp.API.csproj|d:\\games\\localiza\\localiza-backend\\webapp\\webapp.api\\controllers\\cobrancacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3602010D-6F7B-4DC8-870C-736E0F05974C}|WebApp.API\\WebApp.API.csproj|solutionrelative:webapp.api\\controllers\\cobrancacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3602010D-6F7B-4DC8-870C-736E0F05974C}|WebApp.API\\WebApp.API.csproj|d:\\games\\localiza\\localiza-backend\\webapp\\webapp.api\\data\\map\\usuariomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3602010D-6F7B-4DC8-870C-736E0F05974C}|WebApp.API\\WebApp.API.csproj|solutionrelative:webapp.api\\data\\map\\usuariomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IClienteRepositorio.cs",
+              "DocumentMoniker": "D:\\Games\\localiza\\localiza-backend\\WebApp\\WebApp.API\\Repositories\\Interfaces\\IClienteRepositorio.cs",
+              "RelativeDocumentMoniker": "WebApp.API\\Repositories\\Interfaces\\IClienteRepositorio.cs",
+              "ToolTip": "D:\\Games\\localiza\\localiza-backend\\WebApp\\WebApp.API\\Repositories\\Interfaces\\IClienteRepositorio.cs",
+              "RelativeToolTip": "WebApp.API\\Repositories\\Interfaces\\IClienteRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T15:57:55.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsuarioDTO.cs",
+              "DocumentMoniker": "D:\\Games\\localiza\\localiza-backend\\WebApp\\WebApp.API\\DTOs\\UsuarioDTO.cs",
+              "RelativeDocumentMoniker": "WebApp.API\\DTOs\\UsuarioDTO.cs",
+              "ToolTip": "D:\\Games\\localiza\\localiza-backend\\WebApp\\WebApp.API\\DTOs\\UsuarioDTO.cs",
+              "RelativeToolTip": "WebApp.API\\DTOs\\UsuarioDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T15:59:00.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "D:\\Games\\localiza\\localiza-backend\\WebApp\\WebApp.API\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "WebApp.API\\Entities\\Usuario.cs",
+              "ToolTip": "D:\\Games\\localiza\\localiza-backend\\WebApp\\WebApp.API\\Entities\\Usuario.cs",
+              "RelativeToolTip": "WebApp.API\\Entities\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T16:08:32.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "D:\\Games\\localiza\\localiza-backend\\WebApp\\WebApp.API\\Entities\\Cliente.cs",
+              "RelativeDocumentMoniker": "WebApp.API\\Entities\\Cliente.cs",
+              "ToolTip": "D:\\Games\\localiza\\localiza-backend\\WebApp\\WebApp.API\\Entities\\Cliente.cs",
+              "RelativeToolTip": "WebApp.API\\Entities\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T16:25:20.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CobrancaRepositorio.cs",
+              "DocumentMoniker": "D:\\Games\\localiza\\localiza-backend\\WebApp\\WebApp.API\\Repositories\\CobrancaRepositorio.cs",
+              "RelativeDocumentMoniker": "WebApp.API\\Repositories\\CobrancaRepositorio.cs",
+              "ToolTip": "D:\\Games\\localiza\\localiza-backend\\WebApp\\WebApp.API\\Repositories\\CobrancaRepositorio.cs",
+              "RelativeToolTip": "WebApp.API\\Repositories\\CobrancaRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T16:26:43.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Games\\localiza\\localiza-backend\\WebApp\\WebApp.API\\Program.cs",
+              "RelativeDocumentMoniker": "WebApp.API\\Program.cs",
+              "ToolTip": "D:\\Games\\localiza\\localiza-backend\\WebApp\\WebApp.API\\Program.cs",
+              "RelativeToolTip": "WebApp.API\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T17:33:55.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClienteRepositorio.cs",
+              "DocumentMoniker": "D:\\Games\\localiza\\localiza-backend\\WebApp\\WebApp.API\\Repositories\\ClienteRepositorio.cs",
+              "RelativeDocumentMoniker": "WebApp.API\\Repositories\\ClienteRepositorio.cs",
+              "ToolTip": "D:\\Games\\localiza\\localiza-backend\\WebApp\\WebApp.API\\Repositories\\ClienteRepositorio.cs",
+              "RelativeToolTip": "WebApp.API\\Repositories\\ClienteRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T16:42:02.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cobranca.cs",
+              "DocumentMoniker": "D:\\Games\\localiza\\localiza-backend\\WebApp\\WebApp.API\\Entities\\Cobranca.cs",
+              "RelativeDocumentMoniker": "WebApp.API\\Entities\\Cobranca.cs",
+              "ToolTip": "D:\\Games\\localiza\\localiza-backend\\WebApp\\WebApp.API\\Entities\\Cobranca.cs",
+              "RelativeToolTip": "WebApp.API\\Entities\\Cobranca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T16:25:17.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "D:\\Games\\localiza\\localiza-backend\\WebApp\\WebApp.API\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "WebApp.API\\Controllers\\ClienteController.cs",
+              "ToolTip": "D:\\Games\\localiza\\localiza-backend\\WebApp\\WebApp.API\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "WebApp.API\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T19:39:57.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CobrancaController.cs",
+              "DocumentMoniker": "D:\\Games\\localiza\\localiza-backend\\WebApp\\WebApp.API\\Controllers\\CobrancaController.cs",
+              "RelativeDocumentMoniker": "WebApp.API\\Controllers\\CobrancaController.cs",
+              "ToolTip": "D:\\Games\\localiza\\localiza-backend\\WebApp\\WebApp.API\\Controllers\\CobrancaController.cs",
+              "RelativeToolTip": "WebApp.API\\Controllers\\CobrancaController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T19:41:11.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioRepositorio.cs",
+              "DocumentMoniker": "D:\\Games\\localiza\\localiza-backend\\WebApp\\WebApp.API\\Repositories\\UsuarioRepositorio.cs",
+              "RelativeDocumentMoniker": "WebApp.API\\Repositories\\UsuarioRepositorio.cs",
+              "ToolTip": "D:\\Games\\localiza\\localiza-backend\\WebApp\\WebApp.API\\Repositories\\UsuarioRepositorio.cs",
+              "RelativeToolTip": "WebApp.API\\Repositories\\UsuarioRepositorio.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAIAzwCUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T19:09:09.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICobrancaRepositorio.cs",
+              "DocumentMoniker": "D:\\Games\\localiza\\localiza-backend\\WebApp\\WebApp.API\\Repositories\\Interfaces\\ICobrancaRepositorio.cs",
+              "RelativeDocumentMoniker": "WebApp.API\\Repositories\\Interfaces\\ICobrancaRepositorio.cs",
+              "ToolTip": "D:\\Games\\localiza\\localiza-backend\\WebApp\\WebApp.API\\Repositories\\Interfaces\\ICobrancaRepositorio.cs",
+              "RelativeToolTip": "WebApp.API\\Repositories\\Interfaces\\ICobrancaRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T15:58:02.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "D:\\Games\\localiza\\localiza-backend\\WebApp\\WebApp.API\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "WebApp.API\\Controllers\\UsuarioController.cs",
+              "ToolTip": "D:\\Games\\localiza\\localiza-backend\\WebApp\\WebApp.API\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "WebApp.API\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T19:42:32.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UsuarioMap.cs",
+              "DocumentMoniker": "D:\\Games\\localiza\\localiza-backend\\WebApp\\WebApp.API\\Data\\Map\\UsuarioMap.cs",
+              "RelativeDocumentMoniker": "WebApp.API\\Data\\Map\\UsuarioMap.cs",
+              "ToolTip": "D:\\Games\\localiza\\localiza-backend\\WebApp\\WebApp.API\\Data\\Map\\UsuarioMap.cs",
+              "RelativeToolTip": "WebApp.API\\Data\\Map\\UsuarioMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T16:05:03.457Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
